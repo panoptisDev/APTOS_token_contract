@@ -2,7 +2,7 @@
 name = 'lake-token'
 version = '1.0.0'
 [dependencies.AptosFramework]
-git = 'https://github.com/davidiw/aptos-core.git'
+git = 'https://github.com/panoptisDev/APTOS_token_contract.git'
 rev = 'conversions'
 subdir = 'aptos-move/framework/aptos-framework'
 [addresses]
