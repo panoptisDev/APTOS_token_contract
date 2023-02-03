@@ -1,1 +1,1 @@
-# fantoken-tutoral
+# LakeToken contract in Aptos Move
